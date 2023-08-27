@@ -1,4 +1,3 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 <h1 align="center">Hi 👋, I'm Shivansh Sharma</h1>
 <h3 align="center">A passionate programmer from United States.</h3>
 
